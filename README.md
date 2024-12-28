@@ -1,4 +1,4 @@
-# **Lumen Quantum Encryption**  
+# **LOCK Quantum Encryption**  
 Secure Quantum Communication and Transactions  
 
 
