@@ -3,7 +3,7 @@ Secure Quantum Communication and Transactions
 
 
 ## Overview  
-**QuantumCryptAI** is a cutting-edge platform combining **Quantum Cryptography** and **Artificial Intelligence** to revolutionize secure communication. By integrating AI-driven anomaly detection with quantum encryption protocols, QuantumCryptAI establishes a resilient and adaptive framework to safeguard sensitive data in the quantum era.  
+**LOCK QUANTUM ENCRYPTION** is a cutting-edge platform combining **Quantum Cryptography** and **Artificial Intelligence** to revolutionize secure communication. By integrating AI-driven anomaly detection with quantum encryption protocols, LOCK establishes a resilient and adaptive framework to safeguard sensitive data in the quantum era.  
 
 ---
 
@@ -26,8 +26,8 @@ Secure Quantum Communication and Transactions
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/username/QuantumCryptAI.git
-   cd QuantumCryptAI
+   git clone https://github.com/LOCK-ENCRYPTION/Quantum-Encryption.git
+   cd Quantum-Encryption
    ```
 2. Install required dependencies:
    ```bash
@@ -37,7 +37,7 @@ Secure Quantum Communication and Transactions
 
 ### Project Structure
 ```plaintext
-QuantumCryptAI/
+Quantum-Encryption/
 ├── qkd_module.py           # Quantum Key Distribution implementation
 ├── anomaly_detection.py    # AI models for anomaly detection
 ├── error_correction.py     # Error correction tools
