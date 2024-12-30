@@ -13,7 +13,7 @@ def main():
     logging.config.fileConfig(config['logging']['config_file'])
     logger = logging.getLogger('appLogger')
 
-    logger.info('Starting Lumen AI application')
+    logger.info('Starting Rhythmix AI application')
 
     # Load and preprocess data
     data = load_data(config['data']['source'])
@@ -22,7 +22,7 @@ def main():
     # Train model
     model = train_model(processed_data, config['model'])
 
-    logger.info('Lumen AI application finished successfully')
+    logger.info('Rhythmix AI application finished successfully')
 
 if __name__ == "__main__":
     main()
