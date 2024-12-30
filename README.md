@@ -27,7 +27,7 @@ Rhythmix AI is revolutionizing music creation by combining advanced AI, quantum 
 ## Getting Started
 
 ### Prerequisites
-- A Rhythmix API key (Sign up at [Rhythmix Website](https://rhythmix.ai))
+- A Rhythmix API key
 - Basic knowledge of integrating REST APIs
 
 ### Installation
